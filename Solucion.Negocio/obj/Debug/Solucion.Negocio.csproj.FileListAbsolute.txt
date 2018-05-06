@@ -1,0 +1,6 @@
+C:\Users\cetecom\source\repos\SolucionConNegocio\Solucion.Negocio\obj\Debug\Solucion.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\SolucionConNegocio\Solucion.Negocio\obj\Debug\Solucion.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\SolucionConNegocio\Solucion.Negocio\bin\Debug\Solucion.Negocio.dll
+C:\Users\cetecom\source\repos\SolucionConNegocio\Solucion.Negocio\bin\Debug\Solucion.Negocio.pdb
+C:\Users\cetecom\source\repos\SolucionConNegocio\Solucion.Negocio\obj\Debug\Solucion.Negocio.dll
+C:\Users\cetecom\source\repos\SolucionConNegocio\Solucion.Negocio\obj\Debug\Solucion.Negocio.pdb
